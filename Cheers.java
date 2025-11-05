@@ -11,7 +11,7 @@ public class Cheers {
                 String input = args[0];
                 int num = Integer.parseInt(args[1]);
                 input = input.toUpperCase();
-                System.out.println(input);
+                // System.out.println(input);
                 String anLetters = "AEFHILMNORSX";
 
                 for (int i = 0; i < input.length(); i++) {
