@@ -18,7 +18,7 @@ public class Cheers {
                         if (anLetters.indexOf(input.charAt(i)) != -1) {
                                 System.out.println("Give me an " + input.charAt(i) + ": " + input.charAt(i) + "!");
                         } else {
-                                System.out.println("Give me a " + input.charAt(i) + ": " + input.charAt(i) + "!");
+                                System.out.println("Give me a  " + input.charAt(i) + ": " + input.charAt(i) + "!");
                         }
                         // System.out.println(input.indexOf("e"));
                 }
