@@ -16,7 +16,7 @@ public class CalcPi {
 			}
 			j = j + 2;
 		}
-		System.out.println("pi, approximated: " + (somewhatPI * 4.0));
+		System.out.println("pi, approximated:     " + (somewhatPI * 4.0));
 		/*
 		 * int j = 1;
 		 * for (int i = 0; i < num; i++) {
