@@ -9,10 +9,10 @@ public class CalcPi {
 		for (int i = 0; i < num; i++) {
 			if (i % 2 == 1) {
 				somewhatPI = somewhatPI - (1.0 / j);
-				System.out.println("here 2 " + somewhatPI);
+				// System.out.println("here 2 " + somewhatPI);
 			} else {
 				somewhatPI = somewhatPI + (1.0 / j);
-				System.out.println("here 1 " + somewhatPI);
+				// System.out.println("here 1 " + somewhatPI);
 			}
 			j = j + 2;
 		}
